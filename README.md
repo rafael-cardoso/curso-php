@@ -1,4 +1,4 @@
-echo "# aula1" >> README.md 
+echo "# curso-php" >> README.md 
 git o init 
 git add README.md 
 git commit -m "primeira cometer" 
